@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.309441738/craftwave-skill-4",
+  "description": "提供最新的邮轮季节性促销信息，让用户及时了解优惠活动，适合预算有限但渴望出行的旅客。",
+  "version": "0.1.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://cruise-mcp.olavacations.com/api/gw/mcp/3798d391-e087-4a8f-b2ae-94db48c27837"
+    }
+  ]
+}
