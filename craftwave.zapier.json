@@ -1,0 +1,10 @@
+{
+  "title": "邮轮季节性促销",
+  "description": "提供最新的邮轮季节性促销信息，让用户及时了解优惠活动，适合预算有限但渴望出行的旅客。",
+  "version": "1.0.0",
+  "platformVersion": "15.0.0",
+  "published_with": "craftwave",
+  "authentication": {
+    "type": "oauth2"
+  }
+}
